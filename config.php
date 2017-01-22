@@ -12,7 +12,7 @@
 														/*標題列內容*/
 	$header_context 		= "六妖資訊 ACCOUNT MANAGEMENT SYSTEM";
 	
-	/*共通配置*/
+	/*共通配置*/ /*RICK TEST*/
 	$default_main_height 	= "87%" ;					/*主要區塊高度*/
 														/*整體頁面字型*/
 	$body_font_family 		= "'Noto Sans CJK TC Light', '微軟正黑體', '標楷體'";
